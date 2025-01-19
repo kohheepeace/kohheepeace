@@ -1,8 +1,8 @@
-### Programming Languages
+### Fav Programming Languages
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
+### Fav Frameworks & Libraries
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![RSpec](https://img.shields.io/badge/-RSpec-CC0000?style=flat&logo=ruby&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)

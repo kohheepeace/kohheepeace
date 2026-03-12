@@ -28,4 +28,4 @@
 
 - [Youtube](https://www.youtube.com/@kohheepeace)
 - [Twitter](https://twitter.com/kohheepeace)
-- [Product Hunt](https://kohheepeace.com)
+- [Product Hunt](https://www.producthunt.com/@kohheepeace)

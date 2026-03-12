@@ -26,6 +26,6 @@
 
 ## 📫 Social
 
-- [Youtube](https://www.linkedin.com/in/kohheepeace)
+- [Youtube](https://www.youtube.com/@kohheepeace)
 - [Twitter](https://twitter.com/kohheepeace)
 - [Product Hunt](https://kohheepeace.com)
